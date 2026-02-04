@@ -1,3 +1,5 @@
+</a>
+
 <div align="center">
   
   # Olá, eu sou o Matheus Guilherme 👋
@@ -16,7 +18,6 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" height="25" alt="Power BI" />
   
 </div>
-
 ___
 
 ### 🎯 Foco Profissional
